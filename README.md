@@ -23,7 +23,7 @@ Here is the graph of the error-free Fourier transform :
 For a linear error, we apply the gain and offset error.     
 I applied to my basic signal a linear error.  
 <p align="center"> <img src="Image4.png"/> </p>  
-###  error  
+### Linear error 
 For this part, I applied to my signal a nonlinear function. For this, I chose 3 linear functions:
 * Exponential: applied to the time vector and the basic signal  
 <p align="center"> <img src="Image6.png"/> </p>
