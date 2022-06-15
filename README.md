@@ -10,7 +10,8 @@ The objective of this project is to develop a human-machine interface qui pourra
 
 ## Simulation
 I created a first function which allows to have a temporal harmonic signal.  
-Subsequently, I created a second function with the sampling frequency to obtain the Fourier transform.   
+Subsequently, I created a second function with the sampling frequency to obtain the Fourier transform.  
+
 Here is the error free signal graph: 
 <p align="center"> <img src="Image9.png"/> </p>
 
@@ -21,8 +22,8 @@ Here is the graph of the error-free Fourier transform :
 ### Linear error
 For a linear error, we apply the gain and offset error.     
 I applied to my basic signal a linear error.  
-<p align="center"> <img src="Image4.png"/> </p>
-### Non-linearity error
+<p align="center"> <img src="Image4.png"/> </p>  
+### Non-linearity error  
 For this part, I applied to my signal a nonlinear function. For this, I chose 3 linear functions:
 * Exponential: applied to the time vector and the basic signal  
 <p align="center"> <img src="Image6.png"/> </p>
